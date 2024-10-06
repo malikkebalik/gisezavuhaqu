@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gisezavuhaqu.pages.dev/sitemap.xml
